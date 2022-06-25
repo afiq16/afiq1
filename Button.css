@@ -1,0 +1,25 @@
+.butto{
+  
+}
+ .navbar{
+      background-color:green;
+      border-radius:5;
+      text-align: center;
+    }
+.navbar a{
+color:white;
+text-decoration: none;
+padding:5px 5px;
+}
+.button{
+  border-radius:10px;
+}
+  .div {
+      background-color:#ffd8a1;
+      border-radius:30px;
+      text-align: center;
+  }
+    .div a{
+      color:blue;
+text-decoration: none;
+}
